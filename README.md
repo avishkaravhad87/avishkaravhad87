@@ -1,5 +1,11 @@
 ## Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_the_peregrain_falcon_)
+
+| Passionate about cloud-native technologies.
+🚀 Currently working on a three-tier student app with Docker, Nginx, Tomcat & MongoDB.
+🐧 Skilled in Linux CLI, 
+
+
 ### Tools:
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
 |----------|----------|----------|----------|------|------|------|-------|------|------|-------|
